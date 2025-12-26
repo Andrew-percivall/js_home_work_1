@@ -1,11 +1,11 @@
-//! Calculator JS Home work: 1-1
+//! Calculator JS Homework: 1
 
 const inputNumberFirst = Number(prompt('input first num:'));
 const useAction = prompt('input an action:');
 const inputNumberSecond = Number(prompt('input second num:'));
 let result;
 
-switch (useAction) {
+switch (useAction){
   case '+':
     result = inputNumberFirst + inputNumberSecond
     break;
