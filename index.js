@@ -37,9 +37,7 @@ if (result === undefined || isNaN(result)) {
 
 
 
-
-//?-------------------------------------------------------------------->
-
+//! OLD Style
 // alert("welcome! to CALCULATOR press key :  OK.  for continue...");
 
 // const n1 = +prompt("Enter number: one", "");
